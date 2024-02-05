@@ -1060,8 +1060,8 @@ section .container {
 .contact .php-email-form .error-message {
   display: none;
   background: rgba(255, 255, 255, 0.08);
-  background: #ed3c0d;
-  text-align: left;
+  background: #18d26e;
+  text-align: center;
   padding: 15px;
   font-weight: 600;
 }
